@@ -1,20 +1,27 @@
 {
-  "data": [
+  "data" : [
     {
-      "available_network": "admob--max--unity--is",
-      "network": "unity",
+
+      "network": "admob",
+
       "max_ban": "41520d44e3d06b49",
       "max_int": "261588b3776ba31b",
+
       "is_app_key": "2386892364823",
       "is_ban": "2386892364823",
       "is_int": "2386892364823",
       "max_native": "2386892364823",
+
       "admob_ban": "ca-app-pub-3940256099942544/6300978111",
       "admob_int": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native": "ca-app-pub-3940256099942544/6300978111",
-      "unity_id": "5353044",
+      "admob_native": "ca-app-pub-3940256099942544/1044960115",
+      "admob_open_ad": "ca-app-pub-3940256099942544/3419835294",
+
+
+      "unity_id": "2386892364823",
       "unity_banner": "Android_Banner",
       "unity_inter": "Android_Interstitial",
+
       "name": "Garten of Banban",
       "photo": "https://www.dictionary.com/e/wp-content/uploads/2019/03/Momo-Challenge-2-236x300.jpg",
       "voice": "https://9asso.github.io/apps/laugh.wav",
