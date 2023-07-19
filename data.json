@@ -2,7 +2,7 @@
   "data": [
     {
       "available_network": "admob--max--unity--is",
-      "network": "admob",
+      "network": "unity",
       "max_ban": "41520d44e3d06b49",
       "max_int": "261588b3776ba31b",
       "is_app_key": "2386892364823",
@@ -12,7 +12,7 @@
       "admob_ban": "ca-app-pub-3940256099942544/6300978111",
       "admob_int": "ca-app-pub-3940256099942544/1033173712",
       "admob_native": "ca-app-pub-3940256099942544/6300978111",
-      "unity_id": "2386892364823",
+      "unity_id": "5353044",
       "unity_banner": "Android_Banner",
       "unity_inter": "Android_Interstitial",
       "name": "Garten of Banban",
